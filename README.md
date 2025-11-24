@@ -63,7 +63,7 @@ I have professional experience from my time at **Tata Consultancy Services** as 
 * **Cloud Certifications:** Azure Administrator Associate (2022), Azure Security Engineer Associate (2023), Azure Fundamentals (2021), AWS - Solutions Architecture Job Simulation (2025).
 * **Hackathon Award:** Secured **1st place** at The Security Hackathon, 2022 (CloudThat), for designing and implementing an innovative end-to-end cybersecurity solution.
 * **Scholarship:** Recognized globally among top recipients for outstanding academic excellence by receiving the Zolve Global Scholarship (August 2024).
-* - **National Cyber League (NCL) – Fall 2024:** Ranked in the **Top 16%** nationally in the Individual Game (8,484 players) and **Top 11%** in the Team Game (4,893 teams). Demonstrated strong competencies in **Network Traffic Analysis (94%)**, **Log Analysis (88–93%)**, **Enumeration & Exploitation (85%)**, **Scanning & Reconnaissance (91%)**, and **OSINT (90%)**.
+* **National Cyber League (NCL) – Fall 2024:** Ranked in the **Top 16%** nationally in the Individual Game (8,484 players) and **Top 11%** in the Team Game (4,893 teams). Demonstrated strong competencies in **Network Traffic Analysis (94%)**, **Log Analysis (88–93%)**, **Enumeration & Exploitation (85%)**, **Scanning & Reconnaissance (91%)** and **OSINT (90%)**.
 
 
 
