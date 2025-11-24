@@ -1,6 +1,7 @@
 ## 👋 Hello! I'm Yamini Mandadi
 
-I'm a **Master of Science in Computer Science** student at California State University, Los Angeles with a strong background in **Cloud & DevOps**, **Full-Stack Development**, and **Data Analysis**. I'm passionate about building scalable, efficient, and secure systems.
+I'm a Master of Science in Computer Science student at California State University, Los Angeles with hands-on experience in **Cloud & DevOps**, **Cybersecurity**, **Full-Stack Development**, and **Data Analysis**. I’m passionate about building scalable, secure, and high-performance systems.
+
 
 ### 🎓 Education
 
